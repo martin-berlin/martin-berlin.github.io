@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 on Martin Berlin</title>
+    <link>https://martin-berlin.github.io/publication_types/2/</link>
+    <description>Recent content in 2 on Martin Berlin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2017 Martin Berlin</copyright>
+    <lastBuildDate>Wed, 01 Jul 2015 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/publication_types/2/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Beyond income: The importance for life satisfaction of having access to a cash margin</title>
+      <link>https://martin-berlin.github.io/publication/beyond-income/</link>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-berlin.github.io/publication/beyond-income/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
