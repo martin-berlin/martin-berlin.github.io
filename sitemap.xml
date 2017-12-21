@@ -5,6 +5,15 @@
     
     <url>
     
+      <loc>https://martin-berlin.github.io/publication/vad/</loc>
+      <lastmod>2017-12-14T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>https://martin-berlin.github.io/publication/hur/</loc>
       <lastmod>2017-07-14T00:00:00+00:00</lastmod>
     </url>
@@ -100,6 +109,16 @@
     
       <loc>https://martin-berlin.github.io/publication_types/6/</loc>
       <lastmod>2017-07-14T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://martin-berlin.github.io/publication_types/7/</loc>
+      <lastmod>2017-12-14T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
