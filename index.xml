@@ -11,6 +11,18 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Teaching</title>
+      <link>https://martin-berlin.github.io/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://martin-berlin.github.io/teaching/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ne.su.se/english/education/2.3646/2017-2018/econometrics-i-spring-2018-1.339109&#34; target=&#34;_blank&#34;&gt;Econometrics I&lt;/a&gt;, PhD level, Spring 2018&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Vad kan vi lära av lyckoforskningen? (report)</title>
       <link>https://martin-berlin.github.io/publication/vad/</link>
       <pubDate>Thu, 14 Dec 2017 00:00:00 +0000</pubDate>
